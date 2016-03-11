@@ -13,7 +13,7 @@ git clone https://github.com/resin-io-projects/electron-rpi-quick-start && cd el
 
 Add your resin.io applications remote endpoint
 ```
-git add remote resin <username>@git.resin.io:<username>/<app-name>.git
+git remote add resin <username>@git.resin.io:<username>/<app-name>.git
 ```
 
 Make sure your device has a screen attached. If you are using the Raspberry Pi 7” Touchscreen Display, follow the instructions [here](http://docs.resin.io/#/pages/hardware/i2c-and-spi.md#raspberry-pi-7-touchscreen-display).
