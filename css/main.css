@@ -1,0 +1,12 @@
+.img-container {
+	background: linear-gradient(to bottom right, #f3f3f3, #36B8E9);
+}
+
+.img-container img {
+	margin-left: auto;
+	 margin-right: auto;
+}
+
+.info-container {
+  margin-top: 2em
+}
